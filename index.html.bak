@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <title>Le Shawarmiste - Cuisine Libanaise - Restaurant et Snack </title>
+    <title>Le Shawarmiste - Cuisine Libanaise </title>
 <!--
     
 TemplateMo 558 Klassy Cafe
@@ -57,20 +57,32 @@ https://templatemo.com/tm-558-klassy-cafe
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Accueil</a></li>
-                            <li class="scroll-to-section"><a href="#about">À propos</a></li>
-                            <li class="scroll-to-section"><a href="#menu" class="active">Carte</a></li>
-                            <li class="scroll-to-section"><a href="#chefs">Nos Chefs</a></li>
+                            <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+                            <li class="scroll-to-section"><a href="#about">About</a></li>
+                           	
+                        <!-- 
                             <li class="submenu">
-                                <a href="javascript:;">Services</a>
+                                <a href="javascript:;">Drop Down</a>
                                 <ul>
-                                    <li><a href="#">Service 1</a></li>
-                                    <li><a href="#">Service 2</a></li>
-                                    <li><a href="#">Service 3</a></li>
-                                    <li><a href="#">Service 4</a></li>
+                                    <li><a href="#">Drop Down Page 1</a></li>
+                                    <li><a href="#">Drop Down Page 2</a></li>
+                                    <li><a href="#">Drop Down Page 3</a></li>
                                 </ul>
                             </li>
-                            <li class="scroll-to-section"><a href="#reservation">Contact</a></li> 
+                        -->
+                            <li class="scroll-to-section"><a href="#menu">Menu</a></li>
+                            <li class="scroll-to-section"><a href="#chefs">Chefs</a></li> 
+                            <li class="submenu">
+                                <a href="javascript:;">Features</a>
+                                <ul>
+                                    <li><a href="#">Features Page 1</a></li>
+                                    <li><a href="#">Features Page 2</a></li>
+                                    <li><a href="#">Features Page 3</a></li>
+                                    <li><a href="#">Features Page 4</a></li>
+                                </ul>
+                            </li>
+                            <!-- <li class=""><a rel="sponsored" href="https://templatemo.com" target="_blank">External URL</a></li> -->
+                            <li class="scroll-to-section"><a href="#reservation">Contact Us</a></li> 
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -90,10 +102,10 @@ https://templatemo.com/tm-558-klassy-cafe
                 <div class="col-lg-4">
                     <div class="left-content">
                         <div class="inner-content">
-                            <h4>Le Shawarmiste</h4>
-                            <h6>Cuisine Libanaise - Restaurant et Snack</h6>
+                            <h4>KlassyCafe</h4>
+                            <h6>THE BEST EXPERIENCE</h6>
                             <div class="main-white-button scroll-to-section">
-                                <a href="#reservation">Réserver une table</a>
+                                <a href="#reservation">Make A Reservation</a>
                             </div>
                         </div>
                     </div>
@@ -137,10 +149,10 @@ https://templatemo.com/tm-558-klassy-cafe
                 <div class="col-lg-6 col-md-6 col-xs-12">
                     <div class="left-text-content">
                         <div class="section-heading">
-                            <h6>À propos</h6>
-                            <h2>Saveurs authentiques du Liban au cœur de L’ouest lausannois</h2>
+                            <h6>About Us</h6>
+                            <h2>We Leave A Delicious Memory For You</h2>
                         </div>
-                        <p>Le Shawarmiste, situé à deux pas de la gare de Renens, au cœur de l’Ouest lausannois, est né de la passion commune de Suisses-Libanais réunis par un même rêve : partager le meilleur du Liban authentique. Nous préparons chaque jour sur place une cuisine faite maison, fraîche et généreuse : mezzés traditionnels, recettes familiales et spécialités halal aux saveurs du soleil. Notre fierté, le shawarma, est un classique incontournable de la street-food levantine, composé de fines tranches de poulet ou d’agneau sélectionné, marinées aux épices, grillées à la broche et servies chaudes chaque jour. Nous proposons également un large choix de plats végétariens inspirés de la richesse de la cuisine libanaise, pour satisfaire toutes les envies. Sur place en salle ou en terrasse, à emporter en snack, ou en service traiteur sur demande, chaque plat est préparé avec amour, respect des normes d’hygiène et authenticité pour une expérience méditerranéenne qui laisse un souvenir.</p>
+                        <p>Klassy Cafe is one of the best <a href="https://templatemo.com/tag/restaurant" target="_blank" rel="sponsored">restaurant HTML templates</a> with Bootstrap v4.5.2 CSS framework. You can download and feel free to use this website template layout for your restaurant business. You are allowed to use this template for commercial purposes. <br><br>You are NOT allowed to redistribute the template ZIP file on any template donwnload website. Please contact us for more information.</p>
                         <div class="row">
                             <div class="col-4">
                                 <img src="assets/images/about-thumb-01.jpg" alt="">
@@ -173,8 +185,8 @@ https://templatemo.com/tm-558-klassy-cafe
             <div class="row">
                 <div class="col-lg-4">
                     <div class="section-heading">
-                        <h6>Carte</h6>
-                        <h2>Notre sélection de pâtisseries de qualité</h2>
+                        <h6>Our Menu</h6>
+                        <h2>Our selection of cakes with quality taste</h2>
                     </div>
                 </div>
             </div>
@@ -266,8 +278,8 @@ https://templatemo.com/tm-558-klassy-cafe
             <div class="row">
                 <div class="col-lg-4 offset-lg-4 text-center">
                     <div class="section-heading">
-                        <h6>Nos Chefs</h6>
-                        <h2>Nous utilisons les meilleurs ingrédients pour vous</h2>
+                        <h6>Our Chefs</h6>
+                        <h2>We offer the best ingredients for you</h2>
                     </div>
                 </div>
             </div>
@@ -335,34 +347,33 @@ https://templatemo.com/tm-558-klassy-cafe
                 <div class="col-lg-6 align-self-center">
                     <div class="left-text-content">
                         <div class="section-heading">
-                            <h6>Contact</h6>
-                            <h2>Ici vous pouvez réserver ou venir directement au café</h2>
+                            <h6>Contact Us</h6>
+                            <h2>Here You Can Make A Reservation Or Just walkin to our cafe</h2>
                         </div>
                         <p>Donec pretium est orci, non vulputate arcu hendrerit a. Fusce a eleifend riqsie, namei sollicitudin urna diam, sed commodo purus porta ut.</p>
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="phone">
                                     <i class="fa fa-phone"></i>
-                                    <h4>Téléphones</h4>
+                                    <h4>Phone Numbers</h4>
                                     <span><a href="#">080-090-0990</a><br><a href="#">080-090-0880</a></span>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="message">
                                     <i class="fa fa-envelope"></i>
-                                    <h4>Courriels</h4>
+                                    <h4>Emails</h4>
                                     <span><a href="#">hello@company.com</a><br><a href="#">info@company.com</a></span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-6">
                     <!-- Embedded Google Map: replace ADDRESS with your restaurant address or name -->
                     <div class="contact-map" style="margin-left:30px;padding:45px 30px;background-color:#fcf3e3;border-radius:5px;">
                       <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.081106159675!2d6.575560548869084!3d46.537166498166776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3158d77a51c9%3A0xf1353e9197ae9b6c!2sLe%20Shawarmiste!5e0!3m2!1sen!2sch!4v1761306908625!5m2!1sen!2sch"
+                        src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.081106159675!2d6.575560548869084!3d46.537166498166776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3158d77a51c9%3A0xf1353e9197ae9b6c!2sLe%20Shawarmiste!5e0!3m2!1sen!2sch!4v1761306908625!5m2!1sen!2sch"
                         width="100%"
                         height="450"
                         style="border:0;min-height:350px;"
@@ -463,7 +474,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-05.png" alt="">
                                                             <h4>Dollma Pire</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$5.00</h6>
                                                             </div>
@@ -473,7 +484,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-06.png" alt="">
                                                             <h4>Omelette & Cheese</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$4.10</h6>
                                                             </div>
@@ -503,7 +514,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-05.png" alt="">
                                                             <h4>Dollma Pire</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$18</h6>
                                                             </div>
@@ -513,7 +524,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-06.png" alt="">
                                                             <h4>Omelette & Cheese</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$22</h6>
                                                             </div>
@@ -539,7 +550,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-02.png" alt="">
                                                             <h4>Orange Juice</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$20</h6>
                                                             </div>
@@ -549,7 +560,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-03.png" alt="">
                                                             <h4>Fruit Salad</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$30</h6>
                                                             </div>
@@ -569,7 +580,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-05.png" alt="">
                                                             <h4>Eggs Omelette</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$14</h6>
                                                             </div>
@@ -579,7 +590,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-03.png" alt="">
                                                             <h4>Orange Juice</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$18</h6>
                                                             </div>
@@ -589,7 +600,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-02.png" alt="">
                                                             <h4>Fruit Salad</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$10</h6>
                                                             </div>
@@ -605,7 +616,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-06.png" alt="">
                                                             <h4>Fresh Chicken Salad</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$8.50</h6>
                                                             </div>
@@ -615,7 +626,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-01.png" alt="">
                                                             <h4>Dollma Pire</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$9</h6>
                                                             </div>
@@ -625,7 +636,7 @@ https://templatemo.com/tm-558-klassy-cafe
                                                         <div class="tab-item">
                                                             <img src="assets/images/tab-item-04.png" alt="">
                                                             <h4>Omelette & Cheese</h4>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+                                                            <p>Lorem ipsum dolor sit amet, consectetur koit adipiscing elit, sed do.</p>
                                                             <div class="price">
                                                                 <h6>$11</h6>
                                                             </div>
@@ -689,11 +700,32 @@ https://templatemo.com/tm-558-klassy-cafe
     <script src="assets/js/scrollreveal.min.js"></script>
     <script src="assets/js/waypoints.min.js"></script>
     <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/imgfix.min.js"></script>
-    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/imgfix.min.js"></script> 
+    <script src="assets/js/slick.js"></script> 
+    <script src="assets/js/lightbox.js"></script> 
+    <script src="assets/js/isotope.js"></script> 
+    
+    <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
+    <script>
+
+        $(function() {
+            var selectedClass = "";
+            $("p").click(function(){
+            selectedClass = $(this).attr("data-rel");
+            $("#portfolio").fadeTo(50, 0.1);
+                $("#portfolio div").not("."+selectedClass).fadeOut();
+            setTimeout(function() {
+              $("."+selectedClass).fadeIn();
+              $("#portfolio").fadeTo(50, 1);
+            }, 500);
+                
+            });
+        });
+
+    </script>
   </body>
-  
+
 </html>
 
 
